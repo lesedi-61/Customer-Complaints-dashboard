@@ -145,11 +145,10 @@ customer-complaint-dashboard/
 
 ## 📊 Dashboard Preview
 
-> *(Add a screenshot of your completed dashboard here)*
 
-```
-[ Screenshot Placeholder ]
-```
+(Add a screenshot of your completed dashboard here)
+
+![Dashboard Preview](dashb.png)
 
 ---
 
